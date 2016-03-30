@@ -1,0 +1,46 @@
+h1 {
+  color: pink;
+}
+
+h2 {
+  color: blue;
+  background: yellow;
+}
+
+html {
+  font-family: cursive;
+}
+
+body {
+  margin: 20;
+}
+
+a {
+  text-decoration: underline;
+  color: green;
+  font-weight: bold;
+}
+
+a:hover {
+  color: gray;
+}
+a:visited {
+  color: purple;
+}
+
+.status {
+  /*font-family: cursive;*/
+}
+
+.profile-title {
+  text-align: center;
+}
+
+.container {
+  background-image: url("bg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment:  scroll;
+  /*opacity: 0.3;*/
+  /*background-color:rgba(0, 0, 0, 1);*/
+}
